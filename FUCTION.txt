@@ -1,0 +1,8 @@
+addLiquidityETH : 0xf305d719
+removeLiquidityWithPermit : 0x2195995c
+finalize : 0x4bb278f3   Pinksale
+enableTrading : 0x8a8c523c
+tradingStatus(bool _status, uint256 _deadBlocks) : 0x26e353b8
+addLiquidity : 0xe8e33700
+OpenTrade(bool _enable) : 0x8e26bbe4
+approve : 0x095ea7b3
